@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EC15A199-B6FD-45B4-98EB-CFF95F13EB89"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5986912B-8152-4E81-A420-BBA381EA6537"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Quizzler-iOS13/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5986912B-8152-4E81-A420-BBA381EA6537 - 7279021ffa8c82a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzler_iOS13.ViewController.quizBrain.getter : Quizzler_iOS13.QuizBrain"
+                  moduleName = "Quizzler-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhan/Desktop/123/Quizzler-iOS13/Quizzler-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "5986912B-8152-4E81-A420-BBA381EA6537 - 22dab2b8dc4d6780"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzler_iOS13.ViewController.quizBrain.setter : Quizzler_iOS13.QuizBrain"
+                  moduleName = "Quizzler-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhan/Desktop/123/Quizzler-iOS13/Quizzler-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5986912B-8152-4E81-A420-BBA381EA6537 - c66716630e325577"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzler_iOS13.ViewController.quizBrain.modify : Quizzler_iOS13.QuizBrain"
+                  moduleName = "Quizzler-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhan/Desktop/123/Quizzler-iOS13/Quizzler-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5986912B-8152-4E81-A420-BBA381EA6537 - 6400a213d4c93e66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzler_iOS13.ViewController.quizBrain.modify : Quizzler_iOS13.QuizBrain with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Quizzler-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhan/Desktop/123/Quizzler-iOS13/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "5986912B-8152-4E81-A420-BBA381EA6537 - 1e9267da6e340db5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzler_iOS13.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Quizzler_iOS13.ViewController"
+                  moduleName = "Quizzler-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhan/Desktop/123/Quizzler-iOS13/Quizzler-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "5986912B-8152-4E81-A420-BBA381EA6537 - 8ed8703b2e7ec5f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzler_iOS13.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Quizzler_iOS13.ViewController&gt;"
+                  moduleName = "Quizzler-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhan/Desktop/123/Quizzler-iOS13/Quizzler-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
